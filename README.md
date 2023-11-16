@@ -31,6 +31,4 @@ The total running time of your program should be no more than 0.5s
 The total memory allowed for use by your program is 5MB
 Example I/O
 
-Example Input	Expected Output
-	tests passed
 ![image](https://github.com/svetlanasieber/Matrix/assets/135451084/200b6fce-34ab-4d6d-850c-489477d17c5d)
